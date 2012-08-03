@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.1 on 2012-08-02 at 12:30 (GMT+02:00)-->
-<!--Last edited by Ukelele version 2.2.1 on 2012-08-02 at 17:17 (GMT+02:00)-->
+<!--Last edited by Ukelele version 2.2.1 on 2012-08-03 at 09:46 (GMT+02:00)-->
 <keyboard group="0" id="10101" name="us-4-es" maxout="1">
     <layouts>
         <layout first="0" last="17" modifiers="f4" mapSet="16c"/>
@@ -282,7 +282,7 @@
             <key code="11" output="B"/>
             <key code="12" output="Q"/>
             <key code="13" output="W"/>
-            <key code="14" output="&#x0027;"/>
+            <key code="14" output="E"/>
             <key code="15" output="R"/>
             <key code="16" action="12"/>
             <key code="17" output="T"/>
@@ -604,7 +604,7 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="5">
-            <key code="0" output="Å"/>
+            <key code="0" output="Á"/>
             <key code="1" output="Í"/>
             <key code="2" output="Î"/>
             <key code="3" output="Ï"/>
@@ -618,7 +618,7 @@
             <key code="11" output="ı"/>
             <key code="12" output="Œ"/>
             <key code="13" output="∑"/>
-            <key code="14" output="Æ"/>
+            <key code="14" output="É"/>
             <key code="15" output="®"/>
             <key code="16" output="Á"/>
             <key code="17" output="†"/>
@@ -635,10 +635,10 @@
             <key code="28" output="•"/>
             <key code="29" output="º"/>
             <key code="30" output="‘"/>
-            <key code="31" output="Ø"/>
-            <key code="32" output="¨"/>
+            <key code="31" output="Ó"/>
+            <key code="32" output="Ú"/>
             <key code="33" output="“"/>
-            <key code="34" output="ˆ"/>
+            <key code="34" output="Í"/>
             <key code="35" output="∏"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="Ò"/>
@@ -648,8 +648,8 @@
             <key code="41" output="…"/>
             <key code="42" output="«"/>
             <key code="43" output="≤"/>
-            <key code="44" output="÷"/>
-            <key code="45" output="˜"/>
+            <key code="44" output="¿"/>
+            <key code="45" output="Ñ"/>
             <key code="46" output="Â"/>
             <key code="47" output="≥"/>
             <key code="48" output="&#x0009;"/>
