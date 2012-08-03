@@ -47,6 +47,14 @@ Notes:
 5. A flag representing your current keyboard layout should have appeared in the menu bar, near the top right. Click on it, and you should see us-4-es in the menu that will appear.
 6. You can use us-4-es now
 
+# What you lose
+
+This new mapping makes the Spanish Glyphs easier to type, but at a (normally negligible) price. The Spanish glyphs now "obscure" some glyphs that previously existed in the U.S. layout.
+
+Most of those glyphs are greek/mathematical in nature, and most people will not need them anyway.
+
+One important exception are the ¨ and ^ accents, previosly on the u and i letters, respectively. If you need to use those frequently, you might not want to use this layout.
+
 # Credits
 
 The .keylayout format is xml-based, and a bit of a pain to work with via a text editor. Instead of using vim to create this layout, I used a tiny app called
