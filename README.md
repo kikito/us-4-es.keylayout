@@ -41,7 +41,7 @@ Notes:
 # Installation
 
 1. Download the us-4-es.keylayout file from this repository
-2. Copy it to ~/Library/Keyboard Layouts (Remember that ~/Library migth be hidden)
+2. Copy it to /Library/Keyboard Layouts (You will need administrative persmissions)
 3. Go to System Preferences/Language & Text/Input Sources and activate us-4-es (you might need to scroll quite a bit to find it on the list)
 4. Make sure "Show input menu in menu bar" is activated
 5. A flag representing your current keyboard layout should have appeared in the menu bar, near the top right. Click on it, and you should see us-4-es in the menu that will appear.
